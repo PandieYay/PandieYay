@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandieyay&label=Profile%20views&color=0e75b6&style=flat" alt="pandieyay" /> </p>
 
 ## 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,typescript,html,css,react,angular,nextjs,nodejs,nestjs,firebase,graphql,mysql,postgres,sqlite,mongodb,ruby,rails,tailwind,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,typescript,html,css,react,angular,vue,nextjs,nodejs,nestjs,firebase,graphql,mysql,postgres,sqlite,mongodb,ruby,rails,tailwind,sass)](https://skillicons.dev)
 
 ## 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=git,linux,vscode,github,figma,docker,nginx,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,vim,figma,docker,atom,nginx,arduino,postman)](https://skillicons.dev)
 
 ## 🐼 Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edisonlim@gmail.com)
