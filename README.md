@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=git,linux,vscode,github,figma,docker,nginx,arduino)](https://skillicons.dev)
 
-## 🐼 Social Media
+## 🐼 Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edisonlim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-l/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/335212805227544577)
